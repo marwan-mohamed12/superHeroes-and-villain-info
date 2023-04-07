@@ -1,7 +1,7 @@
 # React Superhero & Villain Information 
 
 - This is a React-based website that allows users to search and view information about their favorite superheroes and villains. The website utilizes an external API to fetch data and display information on the website.
-- <a href="https://shoppingcart-react-marwan.netlify.app/">Live Demo</a>
+- <a href="https://superheroes-and-villains-information.netlify.app/">Live Demo</a>
 
 ## Features
 
