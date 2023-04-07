@@ -10,6 +10,9 @@
 3. Ability to view additional details by clicking the "Details" button
 4. Data is fetched from an external API
 
+## API
+This website utilizes the <a href="https://superheroapi.com/?ref=apilist.fun">Superhero API</a> to fetch data about superheroes and villains.
+
 ## Installation
 
 To use this project, follow these steps:
